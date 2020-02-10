@@ -1,0 +1,1 @@
+A partial Python script was provided with a dataset. According to the question the script was required to be completed and the desired results were required to be obtain thoug understanding of data science.
